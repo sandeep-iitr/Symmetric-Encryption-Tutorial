@@ -7,3 +7,6 @@ This is a maven Java project developed using eclipse.
 
 ## Running
 Run the class SymmetricKey as Java application. The code has comments for understanding the flow.
+
+### Reference
+The tutorial is developed from the examples from mkyong.com on symmetric key encryption.
